@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sachingopal
-- 👀 I’m interested in python and Ansible and spend my time having consciousness
+- 👀 I’m interested in python and Ansible and spend my time hacking consciousness
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on anything as long as it interests me
 - 📫 Find me at www.sachingopal.com
